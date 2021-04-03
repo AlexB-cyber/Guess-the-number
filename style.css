@@ -1,0 +1,40 @@
+body {
+	margin: 0;
+	background-image: url(1-999.jpg);
+	background-position: top;
+	background-repeat: no-repeat; 
+	background-size: cover; 
+}
+.all {
+	margin: 250px 40%;
+	position: absolute;
+	width: 450px;
+	height: 100px;
+}
+
+input {
+	font-size: 30px;
+	width: 90px;
+	height: 44px;
+	border: none;
+}
+h1 {
+	font-size: 60px;
+}
+button {
+	height: 50px;
+	width: 90px;
+	font-size: 15px;
+}
+p {
+	font-size: 30px;
+	width: 590px;
+}
+.inputsbuttons button {
+	display: inline-block;
+	vertical-align: top;
+}
+.inputsbuttons {
+	padding: 0;
+	height: 50px;
+}
